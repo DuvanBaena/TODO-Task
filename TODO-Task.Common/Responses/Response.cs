@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TODO_Task.Common.Responses
+﻿namespace TODO_Task.Common.Responses
 {
-    public class Responses
+    public class Response
     {
         public bool IsSuccess { get; set; }
 
